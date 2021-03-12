@@ -1,0 +1,6 @@
+2021-02-19  20:25:52,johanderson,install,finger
+2021-02-22  05:37:45,johanderson,install,openjdk-9-jre-headless
+2021-02-23  03:24:02,johanderson,remove,openjdk-9-jre-headless
+2021-02-23  03:31:10,johanderson,install,oracle-java15-installer
+2021-02-23  03:34:01,johanderson,install,oracle-java15-installer
+2021-02-23  03:59:03,johanderson,install,samba

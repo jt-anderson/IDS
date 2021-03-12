@@ -1,0 +1,7 @@
+11/Mar/2021:05:49:55 +0000,::1,GET,/app/kibana
+11/Mar/2021:05:49:55 +0000,::1,GET,/css/securityonion.css
+11/Mar/2021:05:49:55 +0000,::1,GET,/js/jquery.min.js
+11/Mar/2021:05:49:55 +0000,::1,GET,/css/bootstrap.min.css
+11/Mar/2021:05:49:55 +0000,::1,GET,/js/bootstrap.min.js
+11/Mar/2021:05:49:56 +0000,::1,GET,/favicon.ico
+11/Mar/2021:05:50:12 +0000,::1,GET,/app/kibana?id=%27
